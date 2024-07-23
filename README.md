@@ -36,12 +36,15 @@ For the "AFTER" metrics, several controls recommendations from NIST 800-53 were 
 
 
 ## Attack Maps Before Hardening / Security Controls
-NSG Allowed Inbound Malicious Flows![nsg-malicious-allowed-in_BEFORE](https://github.com/user-attachments/assets/1dc5c5e3-1a8c-489b-b8cb-e861fcc5d534)
-<br>
-Linux SSH Auth Fail![linux-ssh-auth-fail_BEFORE](https://github.com/user-attachments/assets/e975c829-74e3-4264-adf9-483e1efe5043)
-<br>
-Windows RDP Auth Fail![windows-rdp-auth-fail_BEFORE](https://github.com/user-attachments/assets/c0ae90ac-e766-4da9-95f5-a2100703280f)
-<br>
+## NSG Allowed Inbound Malicious Flows
+![nsg-malicious-allowed-in_BEFORE](https://github.com/user-attachments/assets/1dc5c5e3-1a8c-489b-b8cb-e861fcc5d534)
+
+## Linux SSH Auth Fail
+![linux-ssh-auth-fail_BEFORE](https://github.com/user-attachments/assets/e975c829-74e3-4264-adf9-483e1efe5043)
+
+## Windows RDP Auth Fail
+![windows-rdp-auth-fail_BEFORE](https://github.com/user-attachments/assets/c0ae90ac-e766-4da9-95f5-a2100703280f)
+
 
 ## Metrics Before Hardening / Security Controls
 
@@ -61,7 +64,8 @@ Stop Time 7/10/2024 17:13:12
 
 ## Attack Maps After Hardening / Security Controls
 
-Windows RDP Auth Fail ![windows-rdp-auth-fail_AFTER](https://github.com/user-attachments/assets/02081ef8-be6f-42bc-a865-16f921dbc0de)
+## Windows RDP Auth Fail
+![windows-rdp-auth-fail_AFTER](https://github.com/user-attachments/assets/02081ef8-be6f-42bc-a865-16f921dbc0de)
 
 
 Linux and NSG map queries actually returned no results due to no instances of malicious activity for the 24 hour period after hardening.
