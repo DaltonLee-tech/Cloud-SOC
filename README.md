@@ -1,5 +1,6 @@
 # Building a SOC + Honeynet in Azure (Live Traffic)
-![SOC setup](https://github.com/user-attachments/assets/3eda8151-d2f1-4ef9-b356-4ca93bb204e5)
+![Honeynet](https://github.com/user-attachments/assets/b9396bd5-0960-4a32-9a77-707fa0d48c9d)
+
 
 
 ## Introduction
@@ -14,10 +15,12 @@ In this project, I build a mini honeynet in Azure and ingest log sources from va
 
 
 ## Architecture Before Hardening / Security Controls
-![Architecture_BEFORE](https://github.com/user-attachments/assets/d845c928-ffbc-40e1-a0a1-0bf4fe91a3cf)
+![Arch_before](https://github.com/user-attachments/assets/ee5f6738-cb64-4d89-b121-e7f1fb254596)
+
 
 ## Architecture After Hardening / Security Controls
-![Architecture_AFTER](https://github.com/user-attachments/assets/d7abbb3f-19e5-4265-8999-67005669fe51)
+![Arch_after](https://github.com/user-attachments/assets/a1ff8d6a-337f-4376-96e9-2d41919ecc84)
+
 
 
 The architecture of the mini honeynet in Azure consists of the following components:
